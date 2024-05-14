@@ -1,0 +1,33 @@
+Dryer API - 
+{
+    "specifications": [
+        true,
+        "Timer",
+    	250,
+        350,
+        "Vented"
+    ]
+}
+
+Monitor API - 
+{
+    "specifications": [
+        "LCD",
+        250,
+        1
+    ]
+}
+
+Washing Machine API - 
+{
+	"specifications" : [
+		9,
+		450,
+		"Dual",
+		true,
+		"Yes",
+		0.8,
+		"Non-Drum",
+		150
+	]
+}
